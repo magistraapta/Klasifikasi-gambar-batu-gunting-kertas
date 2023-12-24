@@ -1,18 +1,11 @@
 
 # Image Classification
 
-This project's goal is to implement image classificaton using tensorflow with keras library to classify rock, paper, and scissors image.
+This project's goal is to implement image classification using Tensorflow with Keras library to classify rock, paper, and scissors images.
 
 ## Documentation
-The dataset from this project can be download with this link
+The dataset from this project can be downloaded with this link
 [Dataset link](https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip)
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 
 ## Installation
